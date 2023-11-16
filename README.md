@@ -6,6 +6,7 @@ pragma solidity ^0.8.0;
 contract MyToken {
 
 Public variables
+
     string public tokenName = "Tokneneng";
     string public tokenSymbol = "Token";
     uint256 public totalSupply = 100000;
